@@ -1,0 +1,38 @@
+# Android Studio Files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle Files
+.gradle/
+build/
+
+# Local Configuration
+local.properties
+*.keystore
+*.jks
+
+# Generated Files
+/captures/
+/output.json
+
+# APK and Bundle Files
+*.apk
+*.ap_
+*.aab
+
+# Proguard and Lint
+proguard/
+lint/
+lint-results.xml
+lint-results.html
+
+# Crash Reports
+hs_err_pid*
+replay_pid*
+
+# System Files
+*.log
+.DS_Store
+Thumbs.db
