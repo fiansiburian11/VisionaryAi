@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781768423503",
+    "project_id": "geminiai-b53b5",
+    "storage_bucket": "geminiai-b53b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781768423503:android:47365dfd94f2a2f04c923a",
+        "android_client_info": {
+          "package_name": "com.aigemini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ4-bSdOhyZQIz40BySlT9fxrhEYOSNwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
